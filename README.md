@@ -1,5 +1,5 @@
-# CCI
-Hands-on resources for a talk at a CCI Bootcamp
+# CTF Intro Workshop
+Hands-on CTF resources
 
 ### Resources
 * CyberChef: https://gchq.github.io/CyberChef/
